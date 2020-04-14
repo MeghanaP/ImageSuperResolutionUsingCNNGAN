@@ -6,7 +6,7 @@ Please refer to report MIE1516-FinalReport-Image_SR.pdf with regards to all the 
 Code reference of repository on which code was developed:
 @misc{eriklindernoren,
     author       = {Erik Linder-Norén},
-    title        = {{dust: Keras-GAN}},
+    title        = {Keras-GAN},
     month        = aug,
     year         = 2019,
     publisher    = {Github},
